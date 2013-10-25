@@ -1,15 +1,14 @@
 Micromax_A56_kernel_source_code
 ==============================
-
-Supported Devices:
 ~~~~~~~~~ ~~~~~~~
+Supported Devices:
 
 1. Micromax A56
 2. Micromax A57
 3. Snexian Mi320
 4. Coolpad 7019
 5. Prestigio 3500 DUO
-
+~~~~~~~~~ ~~~~~~~
 ==============================
 
   Linux kernel release 2.6.xx <http://kernel.org/>
