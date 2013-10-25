@@ -1,8 +1,8 @@
 Micromax_A56_kernel_source_code
 ==============================
-~~~~~~~~~ ~~~~~~~
-Supported Devices:
 
+Supported Devices:
+~~~~~~~~~ ~~~~~~~
 1. Micromax A56
 2. Micromax A57
 3. Snexian Mi320
