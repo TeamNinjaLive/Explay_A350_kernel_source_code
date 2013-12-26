@@ -1,7 +1,7 @@
 #
 # Automatically generated make config: don't edit
 # Linux/arm 2.6.38.6 Kernel Configuration
-# Sat Jul  6 21:03:56 2013
+# Thu Dec 20 15:46:48 2012
 #
 CONFIG_ARM=y
 CONFIG_SYS_SUPPORTS_APM_EMULATION=y
@@ -304,7 +304,6 @@ CONFIG_LCT_AW551=y
 # CONFIG_LCT_AE550 is not set
 # CONFIG_LCT_AW550 is not set
 # CONFIG_LCT_AE770 is not set
-# CONFIG_LCT_AW735 is not set
 
 #
 # LCT Customer of Project Selection
@@ -312,11 +311,7 @@ CONFIG_LCT_AW551=y
 CONFIG_LCT_AW551_YL=y
 # CONFIG_LCT_AW553_YL is not set
 # CONFIG_LCT_AW535_LCT is not set
-# CONFIG_LCT_AW535_LCT_B is not set
-# CONFIG_LCT_AW535_QL is not set
 CONFIG_LCT_AW535_MCX=y
-# CONFIG_LCT_AW535_MAK is not set
-# CONFIG_LCT_AW535_VHH is not set
 # CONFIG_LCT_AW551_Others is not set
 # CONFIG_MSM_STACKED_MEMORY is not set
 CONFIG_PHYS_OFFSET=0x00200000
@@ -1210,6 +1205,7 @@ CONFIG_SENSORS_APDS9900=y
 CONFIG_MIXED_SENSOR=y
 # CONFIG_BOSCH_BMA150 is not set
 CONFIG_BOSCH_BMA250=y
+# CONFIG_BOSCH_BMA2X2 is not set
 CONFIG_BOSCH_BMA250_ENABLE_IRQ=y
 # CONFIG_BOSCH_BMA250_USE_SMBUS is not set
 # CONFIG_BOSCH_BMA250_WITH_DEBUG is not set
